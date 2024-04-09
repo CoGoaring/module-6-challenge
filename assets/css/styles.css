@@ -1,6 +1,15 @@
 
+main {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    border: 3px solid black;
+}
 /* worry about this later */
 .weatherSearch {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
     border: 3px solid black;
 }
 
